@@ -1,0 +1,11 @@
+# Regra padrão: define o dono geral do repositório
+* @isaeidt
+
+# Documentação e arquivos de texto
+/docs/  @isaeidt
+
+# Código fonte e lógica do sistema
+/src/   @isaeidt
+
+# Área sensível: configurações de governança e automação 
+/.github/ @isaeidt
